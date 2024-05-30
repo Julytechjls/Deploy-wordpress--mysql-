@@ -1,4 +1,5 @@
 https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
+
 Deploying WordPress and MySQL with Persistent Volumes
 
 This tutorial shows you how to deploy a WordPress site and a MySQL database using Minikube. Both applications use PersistentVolumes and PersistentVolumeClaims to store data.
